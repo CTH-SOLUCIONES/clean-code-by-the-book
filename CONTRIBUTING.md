@@ -3,6 +3,8 @@
 Thanks for helping. This skill is only useful if it is accurate, so a contribution has to meet a
 higher bar for correctness than for style.
 
+Everyone who takes part follows the [Code of Conduct](CODE_OF_CONDUCT.md).
+
 ## What makes a change acceptable
 
 1. **Every rule is traceable.** It comes from *Clean Code* or *Clean Architecture* (cite the chapter),
