@@ -1,0 +1,15 @@
+{
+  "name": "clean-code-by-the-book",
+  "description": "Clean Code and Clean Architecture skill for coding agents.",
+  "owner": {
+    "name": "CTH Soluciones Tecnológicas"
+  },
+  "plugins": [
+    {
+      "name": "clean-code-by-the-book",
+      "source": "./",
+      "description": "Clean Code and Clean Architecture as the books actually say them, adapted to Go, Python, TypeScript, Rust, PL/pgSQL and Oracle.",
+      "version": "1.0.0"
+    }
+  ]
+}

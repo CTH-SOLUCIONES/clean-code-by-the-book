@@ -1,0 +1,13 @@
+{
+  "name": "clean-code-by-the-book",
+  "version": "1.0.0",
+  "description": "Clean Code and Clean Architecture as the books actually say them, adapted to Go, Python, TypeScript, Rust, PL/pgSQL and Oracle. No invented thresholds.",
+  "author": {
+    "name": "CTH Soluciones Tecnológicas",
+    "url": "https://github.com/CTH-SOLUCIONES"
+  },
+  "homepage": "https://github.com/CTH-SOLUCIONES/clean-code-by-the-book",
+  "repository": "https://github.com/CTH-SOLUCIONES/clean-code-by-the-book",
+  "license": "MIT",
+  "keywords": ["clean-code", "clean-architecture", "code-review", "refactoring", "go", "python", "typescript", "rust", "postgresql", "oracle"]
+}
