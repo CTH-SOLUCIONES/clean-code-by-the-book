@@ -6,6 +6,7 @@ a new rule or reference is a minor version; a correction is a patch.
 ## Unreleased
 
 - Contribution guide, pull request template and issue form.
+- Code of conduct (Contributor Covenant 2.1).
 
 ## 1.0.0 — 2026-11-16
 
