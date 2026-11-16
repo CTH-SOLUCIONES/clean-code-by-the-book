@@ -1,0 +1,26 @@
+name: Inaccurate rule
+description: A rule, example or fact in the skill is wrong or misreads its source.
+labels: ["accuracy"]
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Where
+      description: File and line, or the section heading.
+      placeholder: skills/clean-code-by-the-book/references/oracle.md, "Captured names"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong
+      description: Quote the text and explain the problem.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source
+      description: Book and chapter, official documentation, or how to reproduce it (with versions).
+    validations:
+      required: true

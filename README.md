@@ -98,7 +98,8 @@ books.
 
 Issues and pull requests are welcome. Every rule has to be traceable to the books, to a language's
 official documentation, or to a behavior you can reproduce (say the version you tested). Please don't
-add thresholds the books don't give.
+add thresholds the books don't give. Read [CONTRIBUTING.md](CONTRIBUTING.md) before you open a pull
+request.
 
 ## License
 
